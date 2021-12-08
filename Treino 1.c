@@ -10,6 +10,6 @@ int main(){
 
     resul = ano - nasci;
 
-   printf("Sua idade atual e %d", &resul);
+    printf("Sua idade atual e %d", &resul);
 
 }
